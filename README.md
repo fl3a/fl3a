@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there, i'm Florian 👋
 
-<!--
-**fl3a/fl3a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Most people call me *Flo*.
 
-Here are some ideas to get you started:
+I'm currently working as a Scrum Master at [REWE digital](https://www.rewe-digital.com/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Prior to this, i worked as a freelance IT consultant for over a decade,
+focussed on [Drupal](https://www.drupal.org/user/51103), Linux and FLOSS in general,
+while my love for Scrum was growing.   
+ Back in these days i co-founded the [Drupal e.V. – German Drupal Association](https://www.drupal.org/drupal-ev), 
+co-organised the first Drupalcamp in D-A-CH
+and co-founded the cooperative [Reinblau](https://reinblau.coop/), 
+an agency for conception, design and agile webdevelopment 
+which runs on holacracy.
+
+Now i focus on people who build software, teams and collaboration. 
+I like the term *posttechnical* for my switch and i do the tech stuff just for fun.
+
+- 🔭 I’m currently working on a sideproject which joins nature, bushcraft  and mindfulness
+- 📫 How to reach me: https://netzaffe.de
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I know >4 ways to start a fire without a lighter 
