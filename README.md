@@ -17,6 +17,6 @@ Now i focus on people who build software, teams and collaboration.
 I like the term *posttechnical* for my switch and i do the tech stuff just for fun.
 
 - 🔭 I’m currently working on a sideproject which joins nature, bushcraft  and mindfulness
-- 📫 How to reach me: https://netzaffe.de
+- 📫 How to reach me: https://florian.latzel.io
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I know >4 ways to start a fire without a lighter 
