@@ -19,6 +19,6 @@ Now i focus leadership team, organisation development, collaboration and coachin
 I like the term *posttechnical* for my switch and i do the tech stuff just for fun.
 
 - 🔭 I’m currently working on a sideproject which joins nature, bushcraft  and mindfulness
-- 📫 How to reach me: https://florian.latzel.io
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I know >4 ways to start a fire without a lighter 
+- ⚡ Fun fact: I know >3 ways to start a fire without a lighter 
+- 🔍 More about me: [Website](https://florian.latzel.io) + [CV](https://florian.latzel.io/cv/)
