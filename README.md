@@ -2,9 +2,10 @@
 
 Most people call me *Flo*.
 
-I'm currently working as a Scrum Master at [REWE digital](https://www.rewe-digital.com/).
+I'm currently working as a *Tribe Agile Master* at [AXA](https://axa.de/).
 
-Prior to this, i worked as a freelance IT consultant for over a decade,
+Prior to this, i worked as *Agile Team Coach* / *Scrum Master* for serveral companies.
+Bach in history i worked as a freelance IT consultant for over a decade,
 focussed on [Drupal](https://www.drupal.org/user/51103), Linux and FLOSS in general,
 while my love for Scrum was growing.   
  Back in these days i co-founded the [Drupal e.V. – German Drupal Association](https://www.drupal.org/drupal-ev), 
