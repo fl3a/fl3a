@@ -14,7 +14,8 @@ and co-founded the cooperative [Reinblau](https://reinblau.coop/),
 an agency for conception, design and agile webdevelopment 
 which runs on holacracy.
 
-Now i focus on people who build software, teams and collaboration. 
+Now i focus leadership team, organisation development, collaboration and coaching.
+
 I like the term *posttechnical* for my switch and i do the tech stuff just for fun.
 
 - 🔭 I’m currently working on a sideproject which joins nature, bushcraft  and mindfulness
