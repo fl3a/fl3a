@@ -21,4 +21,4 @@ I like the term *posttechnical* for my switch and i do the tech stuff just for f
 - 🔭 I’m currently working on a sideproject which joins nature, bushcraft  and mindfulness
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I know >3 ways to start a fire without a lighter 
-- 🔍 More about me: [Website](https://florian.latzel.io) + [CV](https://florian.latzel.io/cv/)
+- 🔍 More about me: https://florian.latzel.io + my [CV](https://florian.latzel.io/cv/)
