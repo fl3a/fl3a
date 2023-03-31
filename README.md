@@ -1,10 +1,7 @@
 ### Hi there, i'm Florian 👋
 
-Most people call me *Flo*.
+Friends and colleages call me *Flo*.
 
-I'm currently working as a *Tribe Agile Master* at [AXA](https://axa.de/).
-
-Prior to this, i worked as *Agile Team Coach* / *Scrum Master* for serveral companies.   
 Back in history i worked as a freelance IT consultant for over a decade,
 focussed on [Drupal](https://www.drupal.org/user/51103), Linux and FLOSS in general,
 while my love for Scrum was growing.   
@@ -14,9 +11,7 @@ and co-founded the cooperative [Reinblau](https://reinblau.coop/),
 an agency for conception, design and agile webdevelopment 
 which runs on holacracy.
 
-Now i focus leadership team, organisation development, collaboration and coaching.
-
-I like the term *posttechnical* for my switch and i do the tech stuff just for fun.
+Today i focus on leadership, teams, organisation development, collaboration and coaching.
 
 - 🔭 I’m currently working on a sideproject which joins nature, bushcraft  and mindfulness
 - 😄 Pronouns: he/him
